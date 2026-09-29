@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_marginTop="100dp"
+        android:gravity="center_horizontal">
+
+        <EditText
+            android:id="@+id/etDelayId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Delay ID"
+            android:inputType="number"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etStartDateTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Start DateTime"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etEndDateTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="End DateTime"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etDuration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Duration"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etCategory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Category"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etHeatNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Heat No"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etDiscipline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Discipline"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etReason"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Reason"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/etOperatorNotes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Operator Notes"
+            android:inputType="textMultiLine"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:layout_marginBottom="24dp"
+            android:imeOptions="actionDone" />
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Update Delay"
+            android:textColor="@android:color/white"
+
+            />
+
+    </LinearLayout>
+</ScrollView>

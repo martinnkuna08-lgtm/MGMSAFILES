@@ -1,0 +1,673 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mandiluve.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Mandiluve.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\appointment-list.html",
+      "PackagePath": "staticwebassets\\appointment-list.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\css\\feathericon.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\feathericon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\feathericon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.eot"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\feathericon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.svg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\feathericon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\feathericon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.woff"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\feathericond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\doctors\\doctor-thumb-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctor-thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\img-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\logo-small.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\patients\\patient9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\patients\\patient9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\profiles\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\profiles\\avatar-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\profiles\\avatar-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\profiles\\avatar-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\specialities\\specialities-01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specialities\\specialities-01.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\specialities\\specialities-02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specialities\\specialities-02.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\specialities\\specialities-03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specialities\\specialities-03.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\specialities\\specialities-04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specialities\\specialities-04.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\img\\specialities\\specialities-05.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specialities\\specialities-05.png"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\chart.morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.morris.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\mask.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mask.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\plugins\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\plugins\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\plugins\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\blank-page.html",
+      "PackagePath": "staticwebassets\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\components.html",
+      "PackagePath": "staticwebassets\\components.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\data-tables.html",
+      "PackagePath": "staticwebassets\\data-tables.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\doctor-list.html",
+      "PackagePath": "staticwebassets\\doctor-list.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\error-404.html",
+      "PackagePath": "staticwebassets\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\error-500.html",
+      "PackagePath": "staticwebassets\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\forgot-password.html",
+      "PackagePath": "staticwebassets\\forgot-password.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\form-basic-inputs.html",
+      "PackagePath": "staticwebassets\\form-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\form-horizontal.html",
+      "PackagePath": "staticwebassets\\form-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\form-input-groups.html",
+      "PackagePath": "staticwebassets\\form-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\form-mask.html",
+      "PackagePath": "staticwebassets\\form-mask.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\form-validation.html",
+      "PackagePath": "staticwebassets\\form-validation.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\form-vertical.html",
+      "PackagePath": "staticwebassets\\form-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\invoice-report.html",
+      "PackagePath": "staticwebassets\\invoice-report.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\invoice.html",
+      "PackagePath": "staticwebassets\\invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\lock-screen.html",
+      "PackagePath": "staticwebassets\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\patient-list.html",
+      "PackagePath": "staticwebassets\\patient-list.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\profile.html",
+      "PackagePath": "staticwebassets\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\reviews.html",
+      "PackagePath": "staticwebassets\\reviews.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\settings.html",
+      "PackagePath": "staticwebassets\\settings.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\specialities.html",
+      "PackagePath": "staticwebassets\\specialities.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\tables-basic.html",
+      "PackagePath": "staticwebassets\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\thato\\source\\repos\\Mandiluve\\Mandiluve\\wwwroot\\transactions-list.html",
+      "PackagePath": "staticwebassets\\transactions-list.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mandiluve.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Mandiluve.props",
+      "PackagePath": "build\\Mandiluve.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mandiluve.props",
+      "PackagePath": "buildMultiTargeting\\Mandiluve.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mandiluve.props",
+      "PackagePath": "buildTransitive\\Mandiluve.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

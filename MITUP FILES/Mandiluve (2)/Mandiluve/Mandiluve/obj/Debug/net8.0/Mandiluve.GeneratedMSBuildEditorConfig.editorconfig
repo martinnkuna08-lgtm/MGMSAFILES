@@ -1,0 +1,207 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Mandiluve
+build_property.RootNamespace = Mandiluve
+build_property.ProjectDir = C:\Users\thato\source\repos\Mandiluve\Mandiluve\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thato\source\repos\Mandiluve\Mandiluve
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/AddPatientVital.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQWRkUGF0aWVudFZpdGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/AdministerMedication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQWRtaW5pc3Rlck1lZGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/Admission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQWRtaXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/AdmitPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQWRtaXRQYXRpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/Allergies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQWxsZXJnaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/DeleteCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRGVsZXRlQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/Discharge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRGlzY2hhcmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/Discharged.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRGlzY2hhcmdlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/PatientAllergies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcUGF0aWVudEFsbGVyZ2llcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/PatientCondition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcUGF0aWVudENvbmRpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/PatientMedication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcUGF0aWVudE1lZGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/UpdateCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVXBkYXRlQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/ViewDispensedPrescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVmlld0Rpc3BlbnNlZFByZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/ViewPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVmlld1BhdGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/ViewPatientCondition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVmlld1BhdGllbnRDb25kaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/ViewPatientMedication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVmlld1BhdGllbnRNZWRpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/ViewPatientVital.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVmlld1BhdGllbnRWaXRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/ViewReceivedMedication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVmlld1JlY2VpdmVkTWVkaWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Nurse/ViewSurgery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcVmlld1N1cmdlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Shared/NurseHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE51cnNlSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Shared/NurseSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE51cnNlU2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Shared/SurgeonSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN1cmdlb25TaWRlQmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/AddPrescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxBZGRQcmVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/AddSurgery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxBZGRTdXJnZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/Admission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxBZG1pc3Npb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/Allergies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxBbGxlcmdpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/DeleteCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxEZWxldGVDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/Discharge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxEaXNjaGFyZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/Discharged.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxEaXNjaGFyZ2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/UpdateCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxVcGRhdGVDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/ViewPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxWaWV3UGF0aWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/ViewPatientCondition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxWaWV3UGF0aWVudENvbmRpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/ViewPatientMedication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxWaWV3UGF0aWVudE1lZGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/ViewSurgery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxWaWV3U3VyZ2VyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Surgeon/ViewUrgentPrescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VyZ2VvblxWaWV3VXJnZW50UHJlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thato/source/repos/Mandiluve/Mandiluve/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xvgygsquib
